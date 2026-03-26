@@ -6,3 +6,4 @@ Doctora Sofia
 Doctor Carlos
 Doctor Luis
 Doctor Parker 
+Doctor Torres 
